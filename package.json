@@ -1,0 +1,23 @@
+{
+  "name": "Generate_Me",
+  "version": "1.0.0",
+  "description": "A command line interface application that generates a single HTML page based on user input.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-taylor6403/Generate_Me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-taylor6403/Generate_Me/issues"
+  },
+  "homepage": "https://github.com/d-taylor6403/Generate_Me#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
